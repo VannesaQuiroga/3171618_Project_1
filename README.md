@@ -41,3 +41,6 @@ El proyecto modela una Agencia de Turismo que gestiona:
 ```bash
 pnpm install
 pnpm start
+
+## Autor
+- Eliana Vannesa Cortes Quiroga

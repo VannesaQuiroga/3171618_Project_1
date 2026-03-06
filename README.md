@@ -176,6 +176,7 @@ Para ejecutar el proyecto:
 ```bash
 pnpm install
 pnpm start
+pnpm run dev
 ```
 
 Esto ejecutará el archivo principal y mostrará los resultados en la consola.
